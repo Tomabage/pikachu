@@ -179,4 +179,4 @@ const string =`
   border-radius: 50%;
 }
 `
-export default string
+export default string;
